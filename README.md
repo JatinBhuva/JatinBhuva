@@ -52,7 +52,7 @@ Focused on:
 ## 🤝 Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/jatin-bhuva  
-- 🌐 Portfolio: https://jatinbhuva.github.io/portfolio/  
+- 🌐 Portfolio: https://jatinbhuva.github.io/  
 - 📧 bhuvajatin252@gmail.com  
 
 ---
