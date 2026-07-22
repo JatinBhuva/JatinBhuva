@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jatinbhuva.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="https://jatinbhuva.github.io/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/jatin-bhuva">💼 LinkedIn</a> •
   <a href="https://medium.com/@jatinbhuva">✍️ Medium</a> •
   <a href="https://stackoverflow.com/users/19572222/jatin-bhuva">🧠 StackOverflow</a>
