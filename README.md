@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Bhuva</h1>
 
 <p align="center">
-🚀 React Native Developer • 4+ Years Experience <br/>
+🚀 React Native Developer • 4.5+ Years Experience <br/>
 📱 Scalable Mobile Apps • ⚡ Performance & Architecture Focused
 </p>
 
